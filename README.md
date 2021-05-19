@@ -15,3 +15,8 @@ A student dashboard created using HTML, CSS, JavaScript, Bootstrap, Nodejs and E
       
       nodemon app.js
 4. On the web browser, type localhost:3000 
+
+
+#### A link to the app:
+
+https://student-dashboard2.herokuapp.com/
