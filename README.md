@@ -3,7 +3,7 @@ A student dashboard created using HTML, CSS, JavaScript, Bootstrap, Nodejs and E
 #### Steps to run the code:
 
 1. Install node.js
-2. Open the terminal and clone the repository on your desktop using 
+2. Open the terminal and clone the repository on your desktop using the following command:
              git clone https://github.com/Samikshapuri/dashboard.git 
 3. Now cd to the folder and execute the code with the following steps:
       npm init
