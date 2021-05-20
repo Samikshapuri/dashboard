@@ -1,4 +1,4 @@
-A student dashboard created using HTML, CSS, JavaScript, Bootstrap, Nodejs and Expressjs.
+A student dashboard created using HTML, CSS, JavaScript, Bootstrap, Nodejs, Expressjs and Apex Charts library.
 
 #### Steps to run the code:
 
